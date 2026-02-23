@@ -671,7 +671,7 @@ GameObject:
   - component: {fileID: 471639699}
   m_Layer: 0
   m_Name: --- DEBUG ---
-  m_TagString: EditorOnly
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -703,7 +703,7 @@ GameObject:
   - component: {fileID: 586292643}
   m_Layer: 0
   m_Name: --- GAMEPLAY ---
-  m_TagString: EditorOnly
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -735,7 +735,7 @@ GameObject:
   - component: {fileID: 676962783}
   m_Layer: 0
   m_Name: --- XR ---
-  m_TagString: EditorOnly
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -850,7 +850,7 @@ GameObject:
   - component: {fileID: 851921710}
   m_Layer: 0
   m_Name: --- ENVIRONMENT ---
-  m_TagString: EditorOnly
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1355,7 +1355,7 @@ GameObject:
   - component: {fileID: 1486414903}
   m_Layer: 0
   m_Name: --- MANAGEMENT ---
-  m_TagString: EditorOnly
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1554,7 +1554,7 @@ GameObject:
   - component: {fileID: 1976124452}
   m_Layer: 0
   m_Name: '--- UI --- '
-  m_TagString: EditorOnly
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

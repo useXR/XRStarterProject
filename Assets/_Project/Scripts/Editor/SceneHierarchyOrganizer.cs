@@ -85,7 +85,6 @@ public class SceneHierarchyOrganizer : EditorWindow
         }
 
         GameObject container = new GameObject(name);
-        container.tag = "EditorOnly";
         container.transform.SetAsLastSibling();
         Undo.RegisterCreatedObjectUndo(container, "Create Section Container");
 
